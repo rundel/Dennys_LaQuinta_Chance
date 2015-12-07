@@ -1,0 +1,852 @@
+"Address","City","State","Zip","Longitude","Latitude"
+"1001 Southeast Walton","Bentonville",AR,"72712",-94.1994,36.3358
+"408 West Commerce Dr","Bryant",AR,"72022",-92.5006,34.6208
+"2350 Sanders Road","Conway",AR,"72032",-92.4371,35.1116
+"2303 Junction City Rd","El Dorado",AR,"71730",-92.6403,33.1972
+"6700 Boston St","Fort Smith",AR,"72903",-94.3590,35.3543
+"4253 Central Avenue","Hot Springs",AR,"71913",-93.0714,34.4522
+"4311 Warden Rd","Little Rock",AR,"72116",-92.2208,34.7950
+"617 South Broadway","Little Rock",AR,"72201",-92.2759,34.7435
+"1010 Breckenridge Dr","Little Rock",AR,"72205",-92.3898,34.7641
+"9 Crossings Court","Little Rock",AR,"72205",-92.3982,34.7267
+"200 Shackleford Rd","Little Rock",AR,"72211",-92.3943,34.7526
+"4100 East McCain Blvd","North Little Rock",AR,"72117",-92.2245,34.7890
+"111 East Harrell Dr","Russellville",AR,"72802",-93.1352,35.3038
+"504 North Poplar St","Searcy",AR,"72143",-91.6910,35.2514
+"1300 South 48th St","Springdale",AR,"72762",-94.1836,36.1739
+"5102 North State Line Avenue","Texarkana",AR,"71854",-94.0430,33.4729
+"2015 South Beulah  Blvd","Flagstaff",AZ,"86001",-111.6636,35.1804
+"6530 East Superstition Springs Blvd","Mesa",AZ,"85206",-111.6921,33.3858
+"902 West Grove Ave","Mesa",AZ,"85210",-111.8521,33.3906
+"16321 North 83rd Ave","Peoria",AZ,"85382",-112.2328,33.6350
+"2725 North Black Canyon Hwy","Phoenix",AZ,"85009",-112.1124,33.4795
+"4727 East Thomas Rd","Phoenix",AZ,"85018",-111.9794,33.4800
+"2510 W Greenway Rd","Phoenix",AZ,"85023",-112.1146,33.6257
+"4929 West McDowell Rd","Phoenix",AZ,"85035",-112.1663,33.4658
+"15241 South 50th St","Phoenix",AZ,"85044",-111.9736,33.3069
+"4499 E State Route 69","Prescott",AZ,"86301",-112.3844,34.5512
+"8888 East Shea Blvd","Scottsdale",AZ,"85260",-111.8901,33.5834
+"911 South 48th St","Tempe",AZ,"85281",-111.9770,33.4203
+"7001 South Tucson Blvd","Tucson",AZ,"85706",-110.9341,32.1248
+"6404 East Broadway","Tucson",AZ,"85710",-110.8566,32.2209
+"102 N Alvernon Way","Tucson",AZ,"85711",-110.9092,32.2239
+"6020 West Hospitality Rd","Tucson",AZ,"85743",-111.0931,32.3588
+"1752 Clementine St","Anaheim",CA,"92802",-117.9099,33.8043
+"3232 Riverside Dr","Bakersfield",CA,"93308",-119.0424,35.3833
+"8858 Spectrum Park Way","Bakersfield",CA,"93308",-119.0763,35.4404
+"920 University Ave","Berkeley",CA,"94710",-122.2956,37.8684
+"651 North Main St","Bishop",CA,"93514",-118.3960,37.3665
+"760 Macadamia Dr","Carlsbad",CA,"92011",-117.3140,33.1063
+"150 Bonita Rd","Chula Vista",CA,"91910",-117.0620,32.6474
+"1515 South Coast Dr","Costa Mesa",CA,"92626",-117.9205,33.6914
+"1771 Research Park Dr","Davis",CA,"95618",-121.7312,38.5408
+"6275 Dublin Blvd","Dublin",CA,"94568",-121.9079,37.7062
+"316 Pittman Road","Fairfield",CA,"94534",-122.1276,38.2195
+"190 N 10th Street","Fowler",CA,"93625",-119.6839,36.6279
+"46200 Landing Pkwy","Fremont",CA,"94538",-121.9449,37.4889
+"330 East Fir Ave","Fresno",CA,"93720",-119.7833,36.8395
+"2926 Tulare","Fresno",CA,"93721",-119.7801,36.7405
+"5077 North Cornelia Ave","Fresno",CA,"93722",-119.8806,36.8099
+"20777 Hesperian Blvd","Hayward",CA,"94541",-122.1178,37.6645
+"12000 Mariposa Rd","Hesperia",CA,"92345",-117.3460,34.4689
+"3945 W Imperial Hwy","Inglewood",CA,"90303",-118.3433,33.9313
+"14972 Sand Canyon Ave","Irvine",CA,"92618",-117.7596,33.6759
+"3 Centerpointe Dr","La Palma",CA,"90623",-118.0314,33.8604
+"7700 Southfront Rd","Livermore",CA,"94551",-121.7006,37.7152
+"5249 West Century Blvd","Los Angeles",CA,"90045",-118.3727,33.9456
+"1390 El Camino Real","Millbrae",CA,"94030",-122.4009,37.6103
+"2401 Del Monte Ave","Monterey",CA,"93940",-121.8604,36.6058
+"23090 Sunnymead Blvd","Moreno Valley",CA,"92553",-117.2598,33.9396
+"8465 Enterprise Way","Oakland",CA,"94621",-122.1933,37.7425
+"937 North Coast Hwy","Oceanside",CA,"92054",-117.3845,33.2028
+"3555 Inland Empire Blvd","Ontario",CA,"91764",-117.5729,34.0715
+"2615 Buena Vista Dr","Paso Robles",CA,"93446",-120.6714,35.6452
+"11131 Folsom Blvd","Rancho Cordova",CA,"95670",-121.2709,38.6051
+"2180 Hilltop Dr","Redding",CA,"96002",-122.3580,40.5759
+"1524 Colony Rd","Ripon",CA,"95366",-121.1416,37.7534
+"200 Jibboom St","Sacramento",CA,"95811",-121.5052,38.5979
+"4604 Madison Ave","Sacramento",CA,"95841",-121.3573,38.6597
+"4909 Sisk Rd","Salida",CA,"95368",-121.0782,37.7096
+"205 East Hospitality Ln","San Bernardino",CA,"92408",-117.2831,34.0658
+"641 Camino Del Rio South","San Diego",CA,"92108",-117.1585,32.7635
+"4610 De Soto Street","San Diego",CA,"92109",-117.2179,32.8069
+"2380 Moore St","San Diego",CA,"92110",-117.1947,32.7493
+"2585 Seaboard Ave","San Jose",CA,"95131",-121.9386,37.3781
+"2721 Hotel Terrace","Santa Ana",CA,"92705",-117.8532,33.7101
+"1601 State Street","Santa Barbara",CA,"93101",-119.7100,34.4269
+"20 Airport Blvd","South San Francisco",CA,"94080",-122.4075,37.6507
+"25201 The Old Rd","Stevenson Ranch",CA,"91381",-118.5648,34.3761
+"2710 West March Ln","Stockton",CA,"95219",-121.3445,37.9830
+"500 Steuber Rd","Tehachapi",CA,"93561",-118.4135,35.1259
+"27330 Jefferson Ave","Temecula",CA,"92590",-117.1652,33.5229
+"1320 Newbury Rd","Thousand Oaks",CA,"91320",-118.9100,34.1829
+"1500 N Cherry Ct","Tulare",CA,"93274",-119.3371,36.2266
+"5818 Valentine Rd","Ventura",CA,"93003",-119.2110,34.2513
+"5438 West Cypress Ave","Visalia",CA,"93277",-119.3514,36.3260
+"630 Sycamore Ave","Vista",CA,"92083",-117.2170,33.1667
+"1011 South Abilene St","Aurora",CO,"80012",-104.8266,39.6983
+"884 Park St","Castle Rock",CO,"80109",-104.8656,39.3791
+"2750 Geyser Dr","Colorado Springs",CO,"80906",-104.7980,38.7922
+"4385 Sinton Rd","Colorado Springs",CO,"80907",-104.8297,38.8957
+"3500 Park Ave West","Denver",CO,"80216",-104.9942,39.7663
+"1975 South Colorado Blvd","Denver",CO,"80222",-104.9410,39.6803
+"4460 Peoria Street","Denver",CO,"80239",-104.8459,39.7769
+"6801 Tower Rd","Denver",CO,"80249",-104.7722,39.8202
+"3709 East Mulberry St","Fort Collins",CO,"80524",-105.0084,40.5809
+"570 Raptor Rd","Fruita",CO,"81521",-108.7395,39.1533
+"3301 Youngfield Service Rd","Golden",CO,"80401",-105.1448,39.7637
+"2761 Crossroads Blvd","Grand Junction",CO,"81506",-108.5411,39.1145
+"7077 South Clinton St","Greenwood Village",CO,"80112",-104.8788,39.5883
+"9009 East Arapahoe Rd","Greenwood Village",CO,"80112",-104.8845,39.5960
+"9041 Brighton Road","Henderson ",CO,"80640",-104.9106,39.8611
+"7190 West Hampden Ave","Lakewood",CO,"80227",-105.0762,39.6524
+"902 West Dillon Rd","Louisville",CO,"80027",-105.1621,39.9589
+"1450 Cascade Ave","Loveland",CO,"80538",-105.1304,40.4080
+"4801 North Elizabeth St","Pueblo",CO,"81008",-104.6164,38.3241
+"600 Wapiti Ct","Rifle",CO,"81650",-107.7736,39.5240
+"560 Silverthorne Ln","Silverthorne",CO,"80498",-106.0656,39.6305
+"3155 Ingles Ln","Steamboat Springs",CO,"80487",-106.8149,40.4484
+"2833 Toupal Dr","Trinidad",CO,"81082",-104.5212,37.1405
+"10179 Church Ranch Way","Westminster",CO,"80021",-105.0747,39.8814
+"8701 Turnpike Dr","Westminster",CO,"80030",-105.0518,39.8530
+"345 West 120th Ave","Westminster",CO,"80234",-104.9913,39.9147
+"116 Newtown Rd","Danbury",CT,"06810",-73.4070,41.4160
+"65 Columbus Blvd","New Britain",CT,"06051",-72.7794,41.6675
+"400 Sargent Dr","New Haven",CT,"06511",-72.9200,41.2940
+"349 Liberty St","Pawcatuck",CT,"06379",-71.8448,41.3976
+"135 Harvard Ave","Stamford",CT,"06902",-73.5622,41.0437
+"64 Ella Grasso Turnpike","Windsor Locks",CT,"06096",-72.6728,41.9195
+"28600 Trails Edge Blvd","Bonita Springs",FL,"34134",-81.8068,26.3202
+"310 Grand Regency Blvd","Brandon",FL,"33510",-82.3271,27.9438
+"5000 Lake Blvd","Clearwater",FL,"33760",-82.7024,27.8667
+"3301 Ulmerton Rd","Clearwater",FL,"33762",-82.6785,27.8947
+"21338 US Hwy 19 North","Clearwater",FL,"33765",-82.7312,27.9663
+"1 Hendry Ave","Cocoa Beach",FL,"32931",-80.6031,28.3687
+"1275 North Atlantic Ave","Cocoa Beach",FL,"32931",-80.6108,28.3336
+"3100 North University Dr","Coral Springs",FL,"33065",-80.2507,26.2684
+"3701 University Dr","Coral Springs",FL,"33065",-80.2498,26.2744
+"10821 Caribbean Blvd","Cutler Bay",FL,"33189",-80.3662,25.5794
+"2725 W International Speedway Blvd","Daytona Beach",FL,"32114",-81.0820,29.1733
+"816 North Atlantic Ave","Daytona Beach",FL,"32118",-81.0140,29.2393
+"351 West Hillsboro Blvd","Deerfield Beach",FL,"33441",-80.1095,26.3196
+"100 Southwest 12th Ave","Deerfield Beach",FL,"33442",-80.1192,26.3166
+"5727 North Federal Hwy","Fort Lauderdale",FL,"33308",-80.1110,26.1982
+"3800 West Commercial Blvd","Fort Lauderdale",FL,"33309",-80.2000,26.1862
+"999 West Cypress Creek Rd","Fort Lauderdale",FL,"33309",-80.1574,26.2034
+"5070 North State Rd 7","Fort Lauderdale",FL,"33319",-80.2029,26.1882
+"4850 South Cleveland Ave","Fort Myers",FL,"33907",-81.8722,26.5900
+"20091 Summerlin Rd","Fort Myers",FL,"33908",-81.9687,26.4933
+"9521 Market Pl Rd","Fort Myers",FL,"33912",-81.7974,26.5493
+"2655 Crossroads Pkwy","Fort Pierce",FL,"34945",-80.3965,27.4174
+"3 Miracle Strip Pkwy SW","Fort Walton Beach",FL,"32548",-86.6136,30.4042
+"920 Northwest 69th Terrace","Gainesville",FL,"32605",-82.4167,29.6617
+"2620 North 26th Ave","Hollywood",FL,"33020",-80.1604,26.0364
+"4686 Lenoir Ave South","Jacksonville",FL,"32216",-81.5978,30.2482
+"8555 Blanding Blvd","Jacksonville",FL,"32244",-81.7377,30.1945
+"8255 Dix Ellis Trail","Jacksonville",FL,"32256",-81.5725,30.2193
+"3199 Hartley Rd","Jacksonville",FL,"32257",-81.6281,30.1838
+"34 Fishermans Way","Jupiter",FL,"33477",-80.0864,26.9349
+"1060 Greenwood Blvd","Lake Mary",FL,"32746",-81.3640,28.7487
+"1024 Lakeland Park Center Drive","Lakeland",FL,"33809",-81.9711,28.0878
+"4315 Lakeland Park Dr","Lakeland",FL,"33809",-81.9538,28.0969
+"7200 George T Edwards Dr","Melbourne",FL,"32940",-80.7216,28.2315
+"3501 NW 42nd Ave ","Miami",FL,"33142",-80.2640,25.8065
+"7401 North West 36th St","Miami",FL,"33166",-80.3169,25.8097
+"8730 North West 27th St","Miami",FL,"33172",-80.3390,25.7995
+"7925 North West 154th St","Miami Lakes",FL,"33016",-80.3293,25.9135
+"1555 5th Ave South","Naples",FL,"34102",-81.7835,26.1393
+"185 Bedzel Circle","Naples",FL,"34104",-81.6876,26.1567
+"3530 SW 36th Ave","Ocala",FL,"34474",-82.1828,29.1508
+"7160 North Frontage Rd","Orlando",FL,"32812",-81.3130,28.4591
+"7931 Daetwyler Dr","Orlando",FL,"32812",-81.3388,28.4522
+"5621 Major Blvd","Orlando",FL,"32819",-81.4530,28.4810
+"5825 International Dr","Orlando",FL,"32819",-81.4601,28.4631
+"8300 Jamaican Ct","Orlando",FL,"32819",-81.4727,28.4451
+"8504 Universal Blvd","Orlando",FL,"32819",-81.4684,28.4407
+"11805 Research Pkwy","Orlando",FL,"32826",-81.2072,28.5885
+"2051 Consulate Dr","Orlando",FL,"32837",-81.4056,28.4284
+"1571 North US Highway 1","Ormond Beach",FL,"32174",-81.1290,29.3370
+"1030 East 23rd St","Panama City",FL,"32405",-85.6422,30.1894
+"7115 Coastal Palms Blvd","Panama City Beach",FL,"32408",-85.7614,30.1744
+"7750 North Davis Hwy","Pensacola",FL,"32514",-87.2212,30.5056
+"7500 Hwy 19 North","Pinellas Park",FL,"33781",-82.6852,27.8401
+"7901 Southwest 6th St","Plantation",FL,"33324",-80.2574,26.1138
+"8101 Peters Rd","Plantation",FL,"33324",-80.2556,26.1062
+"812 Kings Hwy","Port Charlotte",FL,"33980",-82.0484,27.0172
+"1791 Dunlawton","Port Orange",FL,"32129",-81.0280,29.1075
+"250 Outlet Mall Blvd","Saint Augustine",FL,"32084",-81.4084,29.9186
+"4999 34th St North","Saint Petersburg",FL,"33714",-82.6783,27.8167
+"1803 North Tamiami Trail","Sarasota",FL,"34234",-82.5472,27.3533
+"4115 US 27 South","Sebring",FL,"33870",-81.4311,27.4612
+"6638 4th Street North","St Petersburg",FL,"33702",-82.6388,27.8334
+"13600 Northwest 2nd St","Sunrise",FL,"33325",-80.3316,26.1236
+"13651 Northwest 2nd St","Sunrise",FL,"33325",-80.3313,26.1241
+"2905 N Monroe St","Tallahassee",FL,"32303",-84.3050,30.4819
+"4730 W Spruce St","Tampa",FL,"33607",-82.5259,27.9596
+"4811 US Hwy 301 North","Tampa",FL,"33610",-82.3580,27.9895
+"4620  West Gandy Blvd","Tampa",FL,"33611",-82.5232,27.8932
+"3701 East Fowler Ave","Tampa",FL,"33612",-82.4181,28.0536
+"9202 North 30th St","Tampa",FL,"33612",-82.4266,28.0336
+"3826 West Waters Ave","Tampa",FL,"33614",-82.5064,28.0244
+"602 South Falkenburg Rd","Tampa",FL,"33619",-82.3342,27.9446
+"17301 Dona Michelle Dr","Tampa",FL,"33647",-82.3711,28.1237
+"1910 Palm Beach Lakes Blvd","West Palm Beach",FL,"33409",-80.0910,26.7168
+"5981 Okeechobee Blvd","West Palm Beach",FL,"33417",-80.1352,26.7081
+"184 North Point Way","Acworth",GA,"30102",-84.6561,34.0820
+"1350 North Point Dr","Alpharetta",GA,"30022",-84.2892,34.0508
+"2535 Chantilly Dr Northeast","Atlanta",GA,"30324",-84.3494,33.8236
+"6260 Peachtree Dunwoody Rd","Atlanta",GA,"30328",-84.3515,33.9230
+"4820 Massachusetts Blvd","Atlanta",GA,"30337",-84.4541,33.6237
+"2415 Paces Ferry Rd Southeast","Atlanta",GA,"30339",-84.4833,33.8630
+"3020 Washington Rd","Augusta",GA,"30907",-82.0463,33.5123
+"165 Warren Mason Blvd","Brunswick",GA,"31520",-81.5234,31.2172
+"150 Cracker Barrel Dr","Calhoun",GA,"30701",-84.9154,34.4708
+"3201 Macon Rd, Suite A","Columbus",GA,"31906",-84.9413,32.4831
+"2919 Warm Springs Rd","Columbus",GA,"31909",-84.9482,32.5052
+"1184 Dogwood Dr SE","Conyers",GA,"30012",-84.0058,33.6549
+"715 College Dr","Dalton",GA,"30720",-85.0028,34.7687
+"1000 Linnenkohl Dr","Douglasville",GA,"30134",-84.7594,33.7315
+"101 Travel Center Blvd","Dublin",GA,"31021",-82.9388,32.4869
+"2370 Stephens Center Dr","Duluth",GA,"30096",-84.0924,33.9751
+"1740 E Oglethorpe Hwy","Hinesville",GA,"31313",-81.5672,31.8585
+"2625 George Busbee Pkwy NW","Kennesaw",GA,"30144",-84.5679,34.0148
+"104 May Creek Dr","Kingsland",GA,"31548",-81.6632,30.7897
+"111 Hoffman Drive","LaGrange",GA,"30241",-84.9736,33.0399
+"4832 Bill Gardner Pkwy","Locust Grove",GA,"30248",-84.1236,33.3533
+"4615 Chambers Rd","Macon",GA,"31206",-83.7221,32.8072
+"3944 River Pl Dr","Macon",GA,"31210",-83.6852,32.9046
+"600 Bullsboro Dr","Newnan",GA,"30265",-84.7581,33.3971
+"5945 Oakbrook Pkwy","Norcross",GA,"30093",-84.2010,33.9142
+"414 Gray St","Pooler",GA,"31322",-81.2406,32.1142
+"15 Chateau Dr","Rome",GA,"30161",-85.1533,34.2222
+"575 Old Holcomb Bridge Rd","Roswell",GA,"30076",-84.3288,34.0244
+"6805 Abercorn St","Savannah",GA,"31405",-81.1130,32.0152
+"8484 Abercorn St","Savannah",GA,"31406",-81.1265,32.0000
+"6 Gateway Blvd South","Savannah",GA,"31419",-81.2815,32.0027
+"2971 Main St West","Snellville",GA,"30078",-84.0365,33.8532
+"225 Lanier Dr","Statesboro",GA,"30458",-81.7822,32.4080
+"3581 Cameron Pkwy","Stockbridge",GA,"30281",-84.2743,33.5532
+"6604 Mall Blvd","Union City",GA,"30291",-84.5378,33.5743
+"1800 Clubhouse Dr","Valdosta",GA,"31601",-83.3277,30.8404
+"1201 Ave H","Carter Lake",IA,"51510",-95.9141,41.2810
+"1390 Northwest 118th St","Clive",IA,"50325",-93.7798,41.6025
+"3330 East Kimberly Rd","Davenport",IA,"52807",-90.5233,41.5522
+"7965 W Emerald Street","Boise",ID,"83704",-116.2811,43.6107
+"2613 S Vista Ave","Boise",ID,"83705",-116.2144,43.5786
+"901 Specht Ave","Caldwell",ID,"83605",-116.6616,43.6619
+"333 W Ironwood Dr","Coeur d Alene",ID,"83814",-116.7909,47.6969
+"2501 South 25th East","Idaho Falls",ID,"83406",-111.9820,43.4755
+"800 S Allen Street","Meridian",ID,"83642",-116.3566,43.5976
+"185 Warbonnet Dr","Moscow",ID,"83843",-117.0375,46.7339
+"415 Cedar St","Sandpoint",ID,"83864",-116.5519,48.2760
+"539 Pole Line Road","Twin Falls",ID,"83301",-114.4693,42.5920
+"1415 West Dundee Rd","Arlington Heights",IL,"60004",-87.9998,42.1389
+"2000 South Lakeside Dr","Bannockburn",IL,"60015",-87.8846,42.1967
+"505 Brock Dr","Bloomington",IL,"61701",-89.0237,40.4838
+"225 West South Frontage Rd","Bolingbrook",IL,"60440",-88.0849,41.6755
+"1900 Center Dr","Champaign",IL,"61820",-88.2447,40.1385
+"One South Franklin","Chicago",IL,"60606",-87.6353,41.8816
+"One South Franklin","Chicago",IL,"60606",-87.6353,41.8816
+"One South Franklin","Chicago",IL,"60606",-87.6353,41.8816
+"One South Franklin","Chicago",IL,"60606",-87.6353,41.8816
+"One South Franklin","Chicago",IL,"60606",-87.6353,41.8816
+"One South Franklin","Chicago",IL,"60606",-87.6353,41.8816
+"One South Franklin","Chicago",IL,"60606",-87.6353,41.8816
+"One South Franklin","Chicago",IL,"60606",-87.6353,41.8816
+"One South Franklin","Chicago",IL,"60606",-87.6353,41.8816
+"One South Franklin","Chicago",IL,"60606",-87.6353,41.8816
+"One South Franklin","Chicago",IL,"60606",-87.6353,41.8816
+"One South Franklin","Chicago",IL,"60606",-87.6353,41.8816
+"4900A S Lake Shore Drive","Chicago",IL,"60615",-87.5858,41.8061
+"6 Gateway Drive","Collinsville",IL,"62234",-90.0170,38.6829
+"1900 East Oakton St","Elk Grove Village",IL,"60007",-87.9584,42.0225
+"5688 Northridge Dr","Gurnee",IL,"60031",-87.9442,42.3780
+"2280 Barrington Rd","Hoffman Estates",IL,"60195",-88.1459,42.0626
+"5210 Southwick Dr","Matteson",IL,"60443",-87.7407,41.5028
+"5450 27th St","Moline",IL,"61265",-90.4991,41.4564
+"1 South 666 Midwest Rd","Oakbrook Terrace",IL,"60181",-87.9736,41.8478
+"136 Regency Park","OFallon",IL,"62269",-89.9387,38.5885
+"4389 Venture Dr","Peru",IL,"61354",-89.1300,41.3631
+"1730 East Higgins Rd","Schaumburg",IL,"60173",-88.0377,42.0383
+"7255 West 183rd St","Tinley Park",IL,"60477",-87.7942,41.5574
+"855 79th St","Willowbrook",IL,"60527",-87.9431,41.7450
+"306 Touring Dr","Auburn",IN,"46706",-85.0780,41.3649
+"101 Carrie Lane","Columbus",IN,"47201",-85.9609,39.1990
+"8015 East Division St","Evansville",IN,"47715",-87.4549,37.9785
+"2902 East Dupont Rd","Fort Wayne",IN,"46825",-85.1055,41.1788
+"2150 W Holiday Rd","Frankfort",IN,"46041",-86.5453,40.2778
+"1281 South Park Dr","Greenwood",IN,"46143",-86.0760,39.6156
+"5120 Victory Dr","Indianapolis",IN,"46203",-86.0804,39.7020
+"401 E Washington Street","Indianapolis",IN,"46204",-86.1502,39.7669
+"2349 Post Dr","Indianapolis",IN,"46219",-86.0108,39.8019
+"7304 East 21st St","Indianapolis",IN,"46219",-86.0397,39.7970
+"2650 Executive Dr","Indianapolis",IN,"46241",-86.2583,39.7271
+"5316 West Southern Ave","Indianapolis",IN,"46241",-86.2509,39.7282
+"3880 West 92nd St","Indianapolis",IN,"46268",-86.2281,39.9200
+"312 Meijer Drive","Lafayette",IN,"47905",-86.8155,40.4132
+"8210 Louisiana St","Merrillville",IN,"46410",-87.3200,41.4695
+"2251 Manchester Drive","Plainfield",IN,"46168",-86.3668,39.6736
+"23040 Lincolnway West","South Bend",IN,"46628",-86.3138,41.6965
+"2400 West Wyatt Earp Blvd","Dodge City",KS,"67801",-100.0473,37.7545
+"2930 Eaglecrest Drive","Emporia",KS,"66801",-96.2189,38.4218
+"9461 Lenexa Dr","Lenexa",KS,"66215",-94.7303,38.9582
+"20570 West 151st St","Olathe",KS,"66061",-94.8191,38.8559
+"10610 Marty St","Overland Park",KS,"66212",-94.6707,38.9352
+"201 East Diamond Drive","Salina",KS,"67401",-97.6105,38.8784
+"7335 East Kellogg Dr","Wichita",KS,"67207",-97.2510,37.6791
+"5500 West Kellogg Dr","Wichita",KS,"67209",-97.4065,37.6733
+"1953 Mel Browning St","Bowling Green",KY,"42104",-86.4183,36.9306
+"210 Commerce Dr","Elizabethtown",KY,"42701",-85.8329,37.7092
+"350 Meijer Dr","Florence",KY,"41042",-84.6356,39.0119
+"100 Canebrake Dr","Lexington",KY,"40509",-84.3851,37.9607
+"1920 Stanton Way","Lexington",KY,"40511",-84.4816,38.1006
+"4125 Preston Hwy","Louisville",KY,"40213",-85.7279,38.1926
+"1501 Alliant Ave","Louisville",KY,"40299",-85.5363,38.2210
+"3960 Coleman Crossing Circle","Paducah",KY,"42001",-88.6829,37.0861
+"1751 Lexington Rd","Richmond",KY,"40475",-84.3128,37.7694
+"6116 West Calhoun Dr","Alexandria",LA,"71303",-92.5216,31.3459
+"2333 South Acadian Thruway","Baton Rouge",LA,"70808",-91.1505,30.4259
+"10555 Reiger Rd","Baton Rouge",LA,"70809",-91.0637,30.3824
+"1617 Oneal Ln","Baton Rouge",LA,"70816",-91.0076,30.4464
+"309 Preston Blvd","Bossier City",LA,"71111",-93.7129,32.5182
+"14221 Highway 90","Boutte",LA,"70039",-90.4124,29.8899
+"104 Sweetland Avenue","Broussard",LA,"70518",-91.9489,30.1433
+"200 Pinnacle Pkwy","Covington",LA,"70433",-90.1368,30.4487
+"2816 S Cabela","Gonzales",LA,"70737",-90.9504,30.2077
+"50 Terry Pkwy","Gretna",LA,"70056",-90.0392,29.9246
+"42126 Veterans Avenue","Hammond",LA,"70403",-90.4560,30.4688
+"189 Synergy Center Blvd","Houma",LA,"70360",-90.7603,29.6295
+"204 West Frontage Rd","Iowa",LA,"70647",-93.0157,30.2513
+"2610 Williams Blvd","Kenner",LA,"70062",-90.2405,30.0044
+"2100 Northeast Evangeline Thruway","Lafayette",LA,"70501",-92.0131,30.2521
+"1015 West Pinhook Rd","Lafayette",LA,"70503",-92.0135,30.2040
+"1201 West Prien Lake Rd","Lake Charles",LA,"70601",-93.2391,30.1979
+"1308 Entrance Road","Leesville",LA,"71446",-93.2380,31.0538
+"3100 I-10 Service Rd","Metairie",LA,"70001",-90.1549,29.9947
+"5900 Veterans Memorial Blvd","Metairie",LA,"70003",-90.2058,30.0057
+"2018 Allison St","Morgan City",LA,"70380",-91.1817,29.6958
+"611A Queen City Dr","New Iberia",LA,"70560",-91.8566,29.9867
+"301 Camp St","New Orleans",LA,"70130",-90.0690,29.9509
+"6700 Financial Circle","Shreveport",LA,"71129",-93.8621,32.4494
+"126 Holiday Blvd","Slidell",LA,"70460",-89.8295,30.3118
+"794 East I-10 Service Rd","Slidell",LA,"70461",-89.7494,30.2825
+"2600 South Ruth","Sulphur",LA,"70663",-93.3765,30.2153
+"13450 Vera McGowan Rd","Walker",LA,"70785",-90.8623,30.4737
+"131 River Rd","Andover",MA,"01810",-71.2088,42.6907
+"446 Southbridge St","Auburn",MA,"01501",-71.8415,42.1994
+"24 Beaver St","Milford",MA,"01757",-71.4864,42.1489
+"23 Cummings St","Somerville",MA,"02145",-71.0848,42.3945
+"100 Congress Street","Springfield",MA,"01104",-72.5953,42.1095
+"4 Philadelphia Ct","Baltimore",MD,"21237",-76.4907,39.3383
+"22769 Three Notch Rd","California",MD,"20619",-76.4969,38.2926
+"2112B Emmorton Park Rd","Edgewood",MD,"21040",-76.3098,39.4537
+"304 Belle Hill Road","Elkton",MD,"21921",-75.8038,39.6376
+"6323 Ritchie Hwy","Glen Burnie",MD,"21061",-76.6136,39.2031
+"7300 Crestmount Rd","Jessup",MD,"20794",-76.7888,39.1712
+"1734 West Nursery Rd","Linthicum",MD,"21090",-76.6851,39.1972
+"106 32nd Street","Ocean City",MD,"21842",-75.0728,38.3614
+"300 South Salisbury Blvd","Salisbury",MD,"21801",-75.5966,38.3643
+"11770 Business Park Dr","Waldorf",MD,"20601",-76.8982,38.6403
+"340 Park Ave","Portland",ME,"04102",-70.2819,43.6557
+"41211 Ford Rd","Canton",MI,"48187",-83.4470,42.3216
+"30847 Flynn Dr","Romulus",MI,"48174",-83.3418,42.2432
+"12888 Reeck Rd","Southgate",MI,"48195",-83.2263,42.2134
+"45311 Park Ave","Utica",MI,"48315",-83.0103,42.6283
+"7815 Nicollet Ave South","Bloomington",MN,"55420",-93.2764,44.8606
+"5151 American Blvd West","Bloomington",MN,"55437",-93.3473,44.8558
+"7011 Northland Circle","Brooklyn Park",MN,"55428",-93.3908,45.0818
+"1805 Maple Grove Road","Duluth",MN,"55811",-92.1644,46.8101
+"10420 Wayzata Blvd","Minnetonka",MN,"55305",-93.4113,44.9740
+"4353 Canal Place SE","Rochester",MN,"55904",-92.4629,43.9592
+"3402 North West Jefferson St","Blue Springs",MO,"64015",-94.3041,39.0352
+"1835 West Hwy 76","Branson",MO,"65616",-93.2515,36.6427
+"2500 Interstate 70 Dr Southwest","Columbia",MO,"65203",-92.3759,38.9683
+"318 Taylor Rd","Hazelwood",MO,"63042",-90.3552,38.7808
+"3320 South Rangeline Rd","Joplin",MO,"64804",-94.4784,37.0531
+"2214 Taney","Kansas City",MO,"64116",-94.5588,39.1470
+"6901 North West 83rd St","Kansas City",MO,"64152",-94.6600,39.2442
+"13615 Riverport Drive","Maryland Heights",MO,"63043",-90.4637,38.7508
+"11805 Lackland Rd","Saint Louis",MO,"63146",-90.4345,38.6982
+"1610 East Evergreen","Springfield",MO,"65803",-93.2648,37.2487
+"2445 N Airport Plaza Avenue","Springfield",MO,"65803",-93.3464,37.2428
+"2535 South Campbell","Springfield",MO,"65807",-93.2957,37.1689
+"957 Cedar Lake Rd","Biloxi",MS,"39532",-88.9357,30.4458
+"215 Dande Rd","Brandon",MS,"39042",-90.0356,32.2761
+"152 Soldiers Colony Rd","Canton",MS,"39046",-90.0682,32.6018
+"109 Lundy Lane","Hattiesburg",MS,"39401",-89.3497,31.3277
+"721 Southwest Dr","Horn Lake",MS,"38637",-90.0023,34.9616
+"593 E Beasley Road","Jackson",MS,"39206",-90.1486,32.3850
+"1400 Roebuck Dr","Meridian",MS,"39301",-88.6915,32.3503
+"7001 Hwy 63 North","Moss Point",MS,"39563",-88.5304,30.4429
+"501 South Pearson Rd","Pearl",MS,"39208",-90.1336,32.2635
+"982 Highway 12 East","Starkville",MS,"39759",-88.7939,33.4811
+"1013 North Gloster St","Tupelo",MS,"38804",-88.7156,34.2770
+"4160 South Frontage Rd","Vicksburg",MS,"39180",-90.8390,32.3431
+"6445 Jackrabbit Ln","Belgrade",MT,"59714",-111.1874,45.7643
+"5720 S Frontage Rd","Billings",MT,"59101",-108.5605,45.7471
+"620 Nikles Dr","Bozeman",MT,"59715",-111.0456,45.6986
+"1 Holiday Park Drive","Butte",MT,"59701",-112.5026,45.9838
+"1717 N Merrill Avenue","Glendive",MT,"59330",-104.6967,47.1224
+"600 River Dr South","Great Falls",MT,"59405",-111.3070,47.4990
+"701 Washington Street","Helena",MT,"59601",-112.0033,46.5916
+"255 Montclair Dr","Kalispell",MT,"59901",-114.2928,48.2097
+"5059 North Reserve St","Missoula",MT,"59808",-114.0348,46.9117
+"165 Hwy 105 Extension","Boone",NC,"28607",-81.6688,36.2155
+"191 Crescent Commons","Cary",NC,"27518",-78.7841,35.7358
+"3127 Sloan Dr","Charlotte",NC,"28208",-80.9209,35.2409
+"4900 South Tryon St","Charlotte",NC,"28217",-80.8912,35.1790
+"1607 Fairgrove Church Rd","Conover",NC,"28613",-81.2618,35.7003
+"4414 Durham Chapel Hill Blvd","Durham",NC,"27707",-78.9722,35.9646
+"1910 Westpark Dr","Durham",NC,"27713",-78.8914,35.9080
+"1201 Lanada Rd","Greensboro",NC,"27407",-79.8935,36.0537
+"1001 Aerial Center Pkwy","Morrisville",NC,"27560",-78.8166,35.8586
+"1001 Hospitality Ct","Morrisville",NC,"27560",-78.8170,35.8599
+"2211 Summit Park Ln","Raleigh",NC,"27612",-78.6761,35.8336
+"2020 Griffith Rd","Winston-Salem",NC,"27103",-80.3102,36.0621
+"2240 North 12th Street","Bismarck",ND,"58501",-100.7736,46.8296
+"552 12th Street West","Dickinson",ND,"58601",-102.7932,46.8950
+"2355 46th St South","Fargo",ND,"58104",-96.8640,46.8426
+"4051 Garden View Drive","Grand Forks",ND,"58201",-97.0863,47.9129
+"1605 35th Avenue S W","Minot",ND,"58701",-101.3195,48.1989
+"4433 North 27th St","Lincoln",NE,"68521",-96.6834,40.8550
+"2600 Eagles Wings Pl","North Platte",NE,"69101",-100.7267,41.1085
+"10760 M St","Omaha",NE,"68127",-96.0800,41.2117
+"3330 North 104th Ave","Omaha",NE,"68134",-96.0754,41.2895
+"21 Front Street","Manchester",NH,"03102",-71.4727,43.0037
+"8 Keewaydin Dr","Salem",NH,"03079",-71.2459,42.7744
+"265 Rte 3 East","Clifton",NJ,"07014",-74.1342,40.8274
+"38 Two Bridges Rd","Fairfield",NJ,"07004",-74.2733,40.8929
+"5000 Clover Road","Mount Laurel",NJ,"08054",-74.9564,39.9265
+"393 Rt 17 South","Paramus",NJ,"07652",-74.0724,40.9473
+"109 9th Avenue","Runnemede",NJ,"08078",-75.0715,39.8580
+"350 Lighting Way","Secaucus",NJ,"07094",-74.0494,40.7902
+"60 Cottontail Ln","Somerset",NJ,"08873",-74.5453,40.5521
+"1850 State Route 23","Wayne",NJ,"07470",-74.2730,40.9472
+"109 Route 36","West Long Branch",NJ,"07764",-74.0198,40.3012
+"2116 Yale Blvd Southeast","Albuquerque",NM,"87106",-106.6217,35.0582
+"2011 Menaul Blvd Northeast","Albuquerque",NM,"87107",-106.6219,35.1107
+"5241 San Antonio Dr Northeast","Albuquerque",NM,"87109",-106.5852,35.1603
+"7439 Pan American Fwy Northeast","Albuquerque",NM,"87109",-106.5888,35.1609
+"6101 Iliff Rd Northwest","Albuquerque",NM,"87121",-106.7084,35.1035
+"2207 West Main Street","Artesia",NM,"88210",-104.4238,32.8417
+"4020 National Parks Highway","Carlsbad",NM,"88220",-104.2313,32.3729
+"4521 North Prince St","Clovis",NM,"88101",-103.1963,34.4440
+"4300 East Pine St","Deming",NM,"88030",-107.7133,32.2716
+"675 Scott Ave","Farmington",NM,"87401",-108.1915,36.7299
+"3880 East Hwy 66","Gallup",NM,"87301",-108.6656,35.5314
+"3312 North Lovington Hwy","Hobbs",NM,"88240",-103.1575,32.7368
+"1500 Hickory Dr","Las Cruces",NM,"88005",-106.7873,32.2906
+"790 Avenida de Mesilla","Las Cruces",NM,"88005",-106.7882,32.2923
+"200 East 19th St","Roswell",NM,"88201",-104.5199,33.4158
+"26147 US Highway 70","Ruidoso Downs",NM,"88346",-105.6225,33.3255
+"4298 Cerrillos Rd","Santa Fe",NM,"87507",-106.0192,35.6351
+"2277 Historic Rte 66","Santa Rosa",NM,"88435",-104.6683,34.9455
+"2516 South Adams St","Tucumcari",NM,"88401",-103.7231,35.1546
+"1591 Great Basin Blvd","Ely",NV,"89301",-114.8707,39.2466
+"4288 North Nellis Blvd","Las Vegas",NV,"89115",-115.0619,36.2380
+"9570 W Sahara Ave","Las Vegas",NV,"89117",-115.3032,36.1457
+"4975 S Valley View Blvd","Las Vegas",NV,"89118",-115.1903,36.1005
+"6560 Surrey St","Las Vegas",NV,"89119",-115.1237,36.0705
+"7101 Cascade Valley Ct","Las Vegas",NV,"89128",-115.2477,36.2115
+"3970 Paradise Rd","Las Vegas",NV,"89169",-115.1547,36.1168
+"4001 Market St","Reno",NV,"89502",-119.7824,39.5095
+"94 Business Park Dr","Armonk",NY,"10504",-73.7073,41.1210
+"8200 Park Road","Batavia",NY,"14020",-78.1931,43.0173
+"10 Aero Rd","Bohemia",NY,"11716",-73.0955,40.7797
+"533 3rd Ave","Brooklyn",NY,"11215",-73.9930,40.6690
+"540 Saw Mill River Rd","Elmsford",NY,"10523",-73.8174,41.0735
+"821 Stewart Ave","Garden City",NY,"11530",-73.6035,40.7339
+"581 Harry L Dr","Johnson City",NY,"13790",-75.9709,42.1247
+"833 New Loudon Rd","Latham",NY,"12110",-73.7597,42.7511
+"37-18 Queens Blvd","Long Island City",NY,"11101",-73.9282,40.7440
+"17 West 32nd St","New York",NY,"10001",-73.9866,40.7477
+"111-26 Van Wyck Expwy","Ozone Park",NY,"11420",-73.8068,40.6841
+"16 Plaza Blvd","Plattsburgh",NY,"12901",-73.4965,44.6976
+"1956 Lyell Ave","Rochester",NY,"14606",-77.6794,43.1649
+"717 East Henrietta Rd","Rochester",NY,"14623",-77.6163,43.1069
+"5394 Willow Place","Verona",NY,"13478",-75.5925,43.1223
+"6619 Transit Rd","Williamsville",NY,"14221",-78.6966,42.9479
+"5335 Broadmoor Circle Northwest","Canton",OH,"44709",-81.4178,40.8578
+"11029 Dowlin Dr","Cincinnati",OH,"45241",-84.4389,39.2720
+"4222 West 150 St","Cleveland",OH,"44135",-81.8044,41.4400
+"5510 Trabue Rd","Columbus",OH,"43228",-83.1463,39.9806
+"6145 Parkcenter Cir ","Dublin",OH,"43017",-83.1332,40.0774
+"3962 Jackpot Rd","Grove City",OH,"43123",-83.0454,39.8811
+"6161 Quarry Ln","Independence",OH,"44131",-81.6492,41.3941
+"268 East Highland Rd","Macedonia",OH,"44056",-81.5171,41.2990
+"120 Stander Ave","Mansfield",OH,"44903",-82.5105,40.6943
+"9918 Escort Dr","Mason",OH,"45040",-84.3172,39.2941
+"25105 Country Club Blvd","North Olmsted",OH,"44070",-81.9052,41.4140
+"1154 Professional Dr","Perrysburg",OH,"43551",-83.6064,41.5494
+"950 East Ash St","Piqua",OH,"45356",-84.2259,40.1514
+"2447 Brice Rd","Reynoldsburg",OH,"43068",-82.8318,39.9363
+"3304 Milan Rd","Sandusky",OH,"44870",-82.6828,41.4272
+"12150 Springfield Pike","Springdale",OH,"45246",-84.4848,39.3003
+"19 Weller Dr","Tipp City",OH,"45371",-84.1918,39.9626
+"2828 East Arlington Street","Ada",OK,"74820",-96.6365,34.7818
+"1502 Woerz Way","Ardmore",OK,"73401",-97.1634,34.1898
+"1410A Southeast Washington Blvd","Bartlesville",OK,"74006",-95.9351,36.7328
+"2009 S Cherokee St","Catoosa",OK,"74015",-95.7602,36.1678
+"774 S Lynn Riggs Blvd","Claremore",OK,"74017",-95.6231,36.3029
+"2715 Chapman Road","Clinton",OK,"73601",-98.9927,35.4942
+"417 Criswell Drive","Durant",OK,"74701",-96.4057,34.0016
+"200 Meline Dr","Edmond",OK,"73034",-97.4283,35.6518
+"2611 E Hwy 66","Elk City",OK,"73644",-99.3740,35.4223
+"1408 North West 40th ST","Lawton",OK,"73505",-98.4434,34.6248
+"1137 S George Nigh Expressway","McAlester",OK,"74501",-95.7555,34.8994
+"5653 Tinker Diagonal","Midwest City",OK,"73110",-97.4224,35.4461
+"2140 Riverwalk Dr","Moore",OK,"73160",-97.4932,35.3191
+"1701 North 32nd Street","Muskogee",OK,"74401",-95.4030,35.7662
+"930 Ed Noble Pkwy","Norman",OK,"73072",-97.4828,35.2072
+"800 South Meridian Ave","Oklahoma City",OK,"73108",-97.6009,35.4584
+"4829 Northwest Expressway","Oklahoma City",OK,"73132",-97.6090,35.5454
+"3003 West Memorial Rd","Oklahoma City",OK,"73134",-97.5701,35.6107
+"5401 Enterprise Ct","Shawnee",OK,"74804",-96.9103,35.3852
+"5285 West 6th Ave","Stillwater",OK,"74074",-97.1308,36.1146
+"23 North 67th East Ave","Tulsa",OK,"74115",-95.9014,36.1617
+"6030 East Skelly Dr","Tulsa",OK,"74135",-95.9100,36.1032
+"3410 Williams Ave","Woodward",OK,"73801",-99.3761,36.4111
+"11500 West - I 40 Service Rd","Yukon",OK,"73099",-97.7261,35.4670
+"251 Airport Rd Southeast","Albany",OR,"97321",-123.0656,44.6415
+"434 S Valley View Rd","Ashland",OR,"97520",-122.7398,42.2258
+"61200 South Hwy 97","Bend",OR,"97702",-121.3156,44.0218
+"155 Day  Island Rd","Eugene",OR,"97401",-123.0807,44.0583
+"243 Northeast Morgan Ln","Grants Pass",OR,"97526",-123.3194,42.4619
+"45 Southeast 32nd St","Newport",OR,"97365",-124.0493,44.6150
+"4319 NW Yeon Ave","Portland",OR,"97210",-122.7302,45.5535
+"11207 Northeast Holman St","Portland",OR,"97220",-122.5469,45.5684
+"890 Hawthorne Ave Southeast","Salem",OR,"97301",-122.9962,44.9206
+"8815 Southwest Sun Pl","Wilsonville",OR,"97070",-122.7676,45.3363
+"120 Arney Road NE","Woodburn",OR,"97071",-122.8825,45.1522
+"199 Walker Rd","Chambersburg",PA,"17201",-77.6334,39.9326
+"7820 Perry Hwy","Erie",PA,"16509",-80.0410,42.0708
+"990 Eisenhower Blvd","Harrisburg",PA,"17111",-76.8047,40.2388
+"265 N Hershey Road","Harrisburg",PA,"17112",-76.7137,40.3519
+"8507 University Blvd","Moon Township",PA,"15108",-80.2226,40.5079
+"4859 McKnight Road","Pittsburgh",PA,"15237",-80.0099,40.5280
+"25 Eastbrook Road","Ronks",PA,"17572",-76.1931,40.0238
+"4 Universal Blvd","Coventry",RI,"02816",-71.5500,41.6629
+"36 Jefferson Blvd","Warwick",RI,"02888",-71.4351,41.7523
+"11 Ashley Pointe Dr","Charleston",SC,"29407",-79.9625,32.7767
+"2499 La Quinta Ln","Charleston",SC,"29420",-80.0489,32.9352
+"7333 Garners Ferry Rd","Columbia",SC,"29209",-80.9501,33.9700
+"1538 Horseshoe Dr","Columbia",SC,"29223",-80.9468,34.0761
+"2123 West Lucas Street","Florence",SC,"29501",-79.8048,34.2346
+"31 Old Country Rd","Greenville",SC,"29607",-82.3019,34.8314
+"65 West Orchard Park Dr","Greenville",SC,"29615",-82.3378,34.8579
+"1561 21st Ave North","Myrtle Beach",SC,"29577",-78.8889,33.7147
+"4709 North Kings Hwy","Myrtle Beach",SC,"29577",-78.8485,33.7231
+"1601B Hwy 17 North","North Myrtle Beach",SC,"29582",-78.6587,33.8446
+"1416 North Elk Vale Rd","Rapid City",SD,"57701",-103.1489,44.0996
+"4521 W 41st Street","Sioux Falls",SD,"57106",-96.7821,43.5145
+"126 Cusick Rd","Alcoa",TN,"37701",-83.9823,35.8117
+"100 West 21st St","Chattanooga",TN,"37408",-85.3116,35.0317
+"311 Browns Ferry Rd ","Chattanooga",TN,"37419",-85.3627,35.0301
+"7017 Shallowford Rd","Chattanooga",TN,"37421",-85.1581,35.0445
+"251 Holiday Drive","Clarksville",TN,"37040",-87.2807,36.5956
+"1131 South Jefferson Ave","Cookeville",TN,"38501",-85.5047,36.1331
+"4207 Franklin Commons Ct","Franklin",TN,"37067",-86.8233,35.9115
+"120 South Cartwright Court","Goodlettsville",TN,"37072",-86.7059,36.3224
+"2370 N Highland Ave","Jackson",TN,"38305",-88.8282,35.6688
+"10150 Airport Pkwy","Kingsport",TN,"37663",-82.4312,36.5052
+"1317 Kirby Road","Knoxville",TN,"37909",-83.9999,35.9457
+"7210 Saddle Rack St","Knoxville",TN,"37914",-83.7746,35.9992
+"140 Dixie Avenue","Lebanon",TN,"37090",-86.3018,36.1813
+"2979 Millbranch Rd","Memphis",TN,"38116",-90.0069,35.0676
+"1236 Primacy Pkwy","Memphis",TN,"38119",-89.8623,35.0980
+"2839 New Brunswick Rd","Memphis",TN,"38133",-89.7815,35.2008
+"6069 Macon Cove","Memphis",TN,"38134",-89.8616,35.1628
+"4311 Sidco Dr","Nashville",TN,"37204",-86.7620,36.0840
+"2345 Atrium Way","Nashville",TN,"37214",-86.6912,36.1555
+"531 Donelson Pike","Nashville",TN,"37214",-86.6663,36.1466
+"219 Emert St","Pigeon Forge",TN,"37863",-83.5529,35.7824
+"2510 Parkway","Pigeon Forge",TN,"37863",-83.5798,35.8065
+"2428 Winfield Dunn Pkwy","Sevierville",TN,"37764",-83.5831,35.9353
+"2537 Highwood Blvd","Smyrna",TN,"37167",-86.5681,35.9693
+"3501 West Lake Rd","Abilene",TX,"79601",-99.7227,32.4914
+"3018 CatClaw Dr","Abilene",TX,"79606",-99.7788,32.4135
+"909 East Frontage Rd","Alamo",TX,"78516",-98.1193,26.1900
+"2400 East Main St","Alice",TX,"78332",-98.0435,27.7643
+"1220 North Central Expressway","Allen",TX,"75013",-96.6674,33.1167
+"1165 Hwy 67W","Alvarado",TX,"76009",-97.2238,32.4149
+"880 South Loop 35","Alvin",TX,"77511",-95.2301,29.4175
+"1708 I-40 East","Amarillo",TX,"79103",-101.8188,35.1920
+"2108 S Coulter St","Amarillo",TX,"79106",-101.9219,35.1891
+"2400 West Mulberry St","Angleton",TX,"77515",-95.4580,29.1629
+"825 North  Watson Rd","Arlington",TX,"76011",-97.0657,32.7550
+"4001 Scots Legacy Dr","Arlington",TX,"76015",-97.1230,32.6788
+"300 East 11th St","Austin",TX,"78701",-97.7385,30.2722
+"10701 Lakeline Mall Dr","Austin",TX,"78717",-97.7922,30.4757
+"150 Parker Dr","Austin",TX,"78728",-97.6742,30.4749
+"4424 South Mopac Expwy","Austin",TX,"78735",-97.8174,30.2409
+"1603 East Oltorf Blvd","Austin",TX,"78741",-97.7403,30.2335
+"7625 East Ben White Blvd","Austin",TX,"78741",-97.6918,30.2176
+"4200 I-35 South","Austin",TX,"78745",-97.7533,30.2147
+"7622 I-35 North","Austin",TX,"78752",-97.7020,30.3391
+"11901 North Mopac Expwy","Austin",TX,"78759",-97.7187,30.4069
+"12875 Seagoville Rd","Balch Springs",TX,"75180",-96.6073,32.7048
+"5300 7th St","Bay City",TX,"77414",-95.9285,28.9891
+"5215 I-10 East","Baytown",TX,"77521",-94.9784,29.8056
+"220 I-10 North","Beaumont",TX,"77702",-94.1352,30.0832
+"5820 Walden Rd","Beaumont",TX,"77707",-94.1613,30.0388
+"1809 Hwy 121","Bedford",TX,"76021",-97.1224,32.8395
+"2062 HWY 59 E","Beeville",TX,"78102",-97.7245,28.4119
+"229 West Loop 121","Belton",TX,"76513",-97.4769,31.0303
+"1102 IH 20 West","Big Spring",TX,"79720",-101.4963,32.2635
+"36756 I H-10 Johns Rd","Boerne",TX,"78006",-98.7496,29.7910
+"2950 Wood Ridge Blvd","Brenham",TX,"77833",-96.3955,30.1373
+"108 Texas Ave","Bridge City",TX,"77611",-93.8493,30.0171
+"2000 10th St","Bridgeport",TX,"76426",-97.7569,33.2216
+"721 FM 1489","Brookshire",TX,"77423",-95.9668,29.7774
+"5051 North Expressway","Brownsville",TX,"78520",-97.5191,25.9798
+"103 Market Place Blvd","Brownwood",TX,"76801",-98.9790,31.7301
+"225 East Alsbury Blvd","Burleson",TX,"76028",-97.3162,32.5639
+"1419 N.US Hwy 67","Cedar Hill",TX,"75104",-96.9182,32.6166
+"1010 East Whitestone Blvd","Cedar Park",TX,"78613",-97.8178,30.5244
+"107 East Kilpatrick Ave","Cleburne",TX,"76031",-97.3949,32.3702
+"1004 Hwy 59 South","Cleveland",TX,"77327",-95.0989,30.3317
+"1126 South Hwy 332 West","Clute",TX,"77531",-95.4122,29.0103
+"607 Texas Ave","College Station",TX,"77840",-96.3333,30.6274
+"1838 Graham Road","College Station",TX,"77845",-96.2835,30.5795
+"2427 Hwy 71 South","Columbus",TX,"78934",-96.5387,29.6903
+"4006 Sprayberry Ln","Conroe",TX,"77303",-95.4831,30.3675
+"546 South Padre Island Dr","Corpus Christi",TX,"78405",-97.4601,27.7567
+"5155 I-37 North","Corpus Christi",TX,"78408",-97.4518,27.8031
+"10446 IH37 Access Rd","Corpus Christi",TX,"78410",-97.5716,27.8477
+"6225 South Padre Island Dr","Corpus Christi",TX,"78412",-97.3589,27.7016
+"14430 South Padre Island Drive","Corpus Christi",TX,"78418",-97.2212,27.6210
+"2020 Regal Dr","Corsicana",TX,"75109",-96.4403,32.1002
+"677 N Baylor Ave","Cotulla",TX,"78014",-99.2449,28.4446
+"801 Liberal Street","Dalhart",TX,"79022",-102.5144,36.0694
+"4440 North Central Expressway","Dallas",TX,"75206",-96.7865,32.8198
+"2421 Walnut Hill Lane","Dallas",TX,"75229",-96.8967,32.8822
+"10001 North Central Expressway","Dallas",TX,"75231",-96.7707,32.8833
+"8300 John W Carpenter Fwy","Dallas",TX,"75247",-96.8769,32.8227
+"7815A LBJ Fwy","Dallas",TX,"75251",-96.7720,32.9247
+"1405 South Hwy 287","Decatur",TX,"76234",-97.5888,33.2208
+"1400 East Blvd","Deer Park",TX,"77536",-95.0996,29.6990
+"2005 Veterans Blvd","Del Rio",TX,"78840",-100.9054,29.3839
+"801 US Highway 75 North","Denison",TX,"75020",-96.5870,33.7648
+"4465 North I-35","Denton",TX,"76207",-97.1766,33.2364
+"641 North I-35 East","DeSoto",TX,"75115",-96.8247,32.6011
+"1912 South Dumas Ave","Dumas",TX,"79029",-101.9752,35.8422
+"2525 E Main St","Eagle Pass",TX,"78852",-100.4750,28.7100
+"10150 IH 20","Eastland",TX,"76448",-98.7917,32.4005
+"6140 Gateway Blvd E","El Paso",TX,"79905",-106.4082,31.7810
+"7550 Remcon Circle","El Paso",TX,"79912",-106.5676,31.8376
+"7620 North Mesa","El Paso",TX,"79912",-106.5675,31.8390
+"7944 Gateway East","El Paso",TX,"79915",-106.3469,31.7520
+"9125 Gateway West","El Paso",TX,"79925",-106.3664,31.7662
+"11033 Gateway Blvd West","El Paso",TX,"79935",-106.3333,31.7459
+"110 South Sonoma Trail","Ennis",TX,"75119",-96.6142,32.3361
+"431 Airport Fwy","Euless",TX,"76040",-97.0891,32.8362
+"1010 West Commerce St","Fairfield",TX,"75840",-96.1774,31.7264
+"1910 10th Street","Floresville",TX,"78114",-98.1453,29.1349
+"1537 North Hwy 285","Fort Stockton",TX,"79735",-102.9084,30.8985
+"7310 Calmont Avenue","Fort Worth",TX,"76116",-97.4430,32.7345
+"8250 Anderson Blvd","Fort Worth",TX,"76120",-97.1741,32.7612
+"4900 Bryant Irvin Rd","Fort Worth",TX,"76132",-97.4162,32.6778
+"5800 Quebec St","Fort Worth",TX,"76135",-97.4247,32.8027
+"4700 North Fwy","Fort Worth",TX,"76137",-97.3121,32.8278
+"1465 East Main St","Fredericksburg",TX,"78624",-98.8492,30.2540
+"3346 Forest Hill Circle","Ft Worth",TX,"76140",-97.2720,32.6600
+"4201 North I-35","Gainesville",TX,"76240",-97.1528,33.6741
+"1402 Seawall Blvd","Galveston",TX,"77550",-94.7798,29.2968
+"8710 Seawall Blvd","Galveston",TX,"77554",-94.8510,29.2528
+"375 E I-30","Garland",TX,"75043",-96.5732,32.8497
+"333 North I-35","Georgetown",TX,"78628",-97.6783,30.6541
+"101 West BO Gibbs Blvd","Glen Rose",TX,"76043",-97.7578,32.2383
+"1631 Water Street","Gonzales",TX,"78629",-97.4624,29.5125
+"880 Harbor Lakes Dr","Granbury",TX,"76048",-97.7660,32.4352
+"2131 West I-20","Grand Prairie",TX,"75052",-97.0321,32.6753
+"210 Heritage Pkwy","Gun Barrel City",TX,"75156",-96.1415,32.3335
+"1002 South Expwy 83","Harlingen",TX,"78552",-97.7138,26.1821
+"1513 Old Brandon Rd","Hillsboro",TX,"76645",-97.0983,32.0176
+"5520 East Sam Houston Pkwy North","Houston",TX,"77015",-95.1626,29.8008
+"930 Normandy St","Houston",TX,"77015",-95.2067,29.7731
+"1625 West Loop South","Houston",TX,"77027",-95.4551,29.7509
+"4015 Southwest Fwy","Houston",TX,"77027",-95.4428,29.7284
+"15510 John F Kennedy Blvd","Houston",TX,"77032",-95.3311,29.9428
+"4424 Westway Park Blvd","Houston",TX,"77041",-95.5593,29.8332
+"8776 Airport Blvd","Houston",TX,"77061",-95.2621,29.6540
+"9034 West Sam Houston Pkwy N","Houston",TX,"77064",-95.5508,29.9040
+"13290 FM 1960 West","Houston",TX,"77065",-95.6182,29.9169
+"8383 FM 1960 Rd W","Houston",TX,"77070",-95.5504,29.9572
+"10850 Harwin Dr","Houston",TX,"77072",-95.5584,29.7173
+"415 FM 1960","Houston",TX,"77073",-95.4233,30.0240
+"6790 Southwest Fwy","Houston",TX,"77074",-95.5038,29.7141
+"2451 Shadow View Lane","Houston",TX,"77077",-95.6008,29.7379
+"11130 Northwest Fwy","Houston",TX,"77092",-95.4656,29.8183
+"15225 Katy Fwy","Houston",TX,"77094",-95.6512,29.7843
+"18201 Kenswick Dr","Humble",TX,"77338",-95.2960,29.9845
+"6909 Atascocita Rd","Humble",TX,"77346",-95.1736,29.9961
+"124 I-45 North","Huntsville",TX,"77340",-95.5701,30.7201
+"1000 Dowdy Ferry Rd","Hutchins",TX,"75141",-96.7055,32.6493
+"4225 North MacArthur Blvd","Irving",TX,"75038",-96.9598,32.8657
+"4105 West Airport Fwy","Irving",TX,"75062",-97.0075,32.8377
+"4850 West John Carpenter Frwy","Irving",TX,"75063",-97.0157,32.9178
+"1902 South Jackson St","Jacksonville",TX,"75766",-95.2542,31.9415
+"501 South Broadway","Joshua",TX,"76058",-97.3844,32.4561
+"110 BMT Dr","Jourdanton",TX,"78026",-98.5325,28.9257
+"1025 S State Hwy 123","Karnes City",TX,"78118",-97.8928,28.8709
+"22455 Katy Fwy","Katy",TX,"77450",-95.7617,29.7849
+"1940 Sidney Baker St","Kerrville",TX,"78028",-99.1162,30.0671
+"1112 South Fort Hood St","Killeen",TX,"76541",-97.7469,31.1099
+"22790 Highway 59 N","Kingwood",TX,"77339",-95.2526,30.0473
+"18869 IH-35 North","Kyle",TX,"78640",-97.8476,30.0315
+"1105 Hwy 146 South","La Porte",TX,"77571",-95.0293,29.6521
+"3610 Santa Ursula Ave","Laredo",TX,"78041",-99.5032,27.5320
+"7220 Bob Bullock Loop","Laredo",TX,"78041",-99.4446,27.5610
+"204 West Centennial Blvd","Lindale",TX,"75771",-95.3949,32.4743
+"402 Hwy 59 Loop South","Livingston",TX,"77351",-94.9527,30.7035
+"3416 Martin Luther King Jr Blvd","Longview",TX,"75602",-94.7166,32.4501
+"908 East Hawkins Pkwy","Longview",TX,"75605",-94.7321,32.5469
+"601 Ave Q","Lubbock",TX,"79401",-101.8552,33.5900
+"4115 Marsha Sharp Fwy","Lubbock",TX,"79407",-101.9021,33.5759
+"5006 Auburn St","Lubbock",TX,"79416",-101.9189,33.6016
+"2119 S 1st St","Lufkin",TX,"75901",-94.7256,31.3052
+"104 N LHS Dr","Lumberton",TX,"77657",-94.2181,30.2592
+"6930 FM 1488 Rd","Magnolia",TX,"77354",-95.5732,30.2211
+"1503 Breckenridge Rd","Mansfield",TX,"76063",-97.1410,32.5932
+"501 Hwy 2147 West","Marble Falls",TX,"78654",-98.2772,30.5611
+"6015 East End Blvd South","Marshall",TX,"75672",-94.3604,32.4864
+"12909 I H 37","Mathis",TX,"78368",-97.8179,28.1108
+"1100 South 10th St","McAllen",TX,"78501",-98.2320,26.1934
+"6501 Henneman Way","McKinney",TX,"75070",-96.6997,33.1390
+"7007 East Expressway 83","Mercedes",TX,"78570",-97.8804,26.1599
+"118 East US Hwy 80","Mesquite",TX,"75149",-96.5947,32.7888
+"4130 West Wall St","Midland",TX,"79703",-102.1222,31.9718
+"2606 North Loop 250 West","Midland",TX,"79707",-102.1553,32.0068
+"805 Travis St","Mission",TX,"78572",-98.3064,26.1968
+"5719 Hwy 6","Missouri City",TX,"77459",-95.5684,29.5706
+"1314 West I-20","Monahans",TX,"79756",-102.9071,31.5718
+"1620 Rotan Ave","Mt Pleasant",TX,"75455",-95.0029,33.1720
+"365 Hwy 46 South","New Braunfels",TX,"78130",-98.0922,29.6995
+"22025 US 59","New Caney",TX,"77357",-95.2293,30.1268
+"5001 East Bus I-20","Odessa",TX,"79761",-102.3129,31.8732
+"4122 Faudree Road","Odessa",TX,"79765",-102.2886,31.9185
+"2220 Hwy 62 South","Orange",TX,"77630",-93.8202,30.1128
+"3000 South Loop 256","Palestine",TX,"75801",-95.6293,31.7342
+"3205 Northeast Loop 286","Paris",TX,"75460",-95.5178,33.6735
+"3490 East Sam Houston Pkwy South","Pasadena",TX,"77505",-95.1581,29.6586
+"2205 Pasadena Freeway","Pasadena",TX,"77506",-95.1833,29.7136
+"9002 Broadway St","Pearland",TX,"77584",-95.3594,29.5585
+"170 Medical Dr","Pearsall",TX,"78061",-99.1190,28.8981
+"101 South Frontage Road, I-20 West","Pecos",TX,"79772",-103.5011,31.3955
+"4603 N Cage Blvd","Pharr",TX,"78577",-98.1792,26.2345
+"4607 N Cage Blvd","Pharr",TX,"78577",-98.1784,26.2346
+"4800 West Plano Pkwy","Plano",TX,"75093",-96.7923,33.0157
+"7540 Memorial Blvd","Port Arthur",TX,"77642",-93.9808,29.9372
+"910 Hwy 35 North","Port Lavaca",TX,"77979",-96.6300,28.6321
+"201 Buddy Ganem Drive","Portland",TX,"78374",-97.3105,27.8984
+"128 North Expressway 77","Raymondville",TX,"78580",-97.7700,26.4839
+"653 N.E Loop 820","Richland Hills",TX,"76118",-97.2079,32.8212
+"2921 Highway 35 N","Rockport",TX,"78382",-97.0418,28.0581
+"689 East Interstate 30","Rockwall",TX,"75087",-96.4691,32.8970
+"28332 Southwest Fwy 59","Rosenberg",TX,"77471",-95.8118,29.5329
+"2004 North I-35","Round Rock",TX,"78681",-97.6919,30.5298
+"2307 Loop 306","San Angelo",TX,"76904",-100.4758,31.4160
+"5922 I-10 West","San Antonio",TX,"78201",-98.5337,29.4839
+"100 W Cesar Chavez Blvd","San Antonio",TX,"78204",-98.4974,29.4202
+"303 Blum St","San Antonio",TX,"78205",-98.4825,29.4238
+"900 Dolorosa St","San Antonio",TX,"78207",-98.4995,29.4243
+"850 Halm Blvd","San Antonio",TX,"78216",-98.4810,29.5189
+"6410 I-35 North","San Antonio",TX,"78218",-98.4018,29.4886
+"6075 I-10 East","San Antonio",TX,"78219",-98.3667,29.4437
+"3180 Goliad Rd","San Antonio",TX,"78223",-98.4294,29.3511
+"7202 South Pan Am Expwy","San Antonio",TX,"78224",-98.5256,29.3557
+"6511 West Military Drive","San Antonio",TX,"78227",-98.6276,29.4005
+"4431 Horizon Hill Blvd","San Antonio",TX,"78229",-98.5557,29.5165
+"1017 N Loop 1604 E","San Antonio",TX,"78232",-98.4780,29.6120
+"12822 I-35 North","San Antonio",TX,"78233",-98.3461,29.5559
+"7134 Northwest Loop 410","San Antonio",TX,"78238",-98.6281,29.4547
+"5622 Utex Blvd","San Antonio",TX,"78249",-98.5970,29.5792
+"11155 West Loop 1604 North","San Antonio",TX,"78254",-98.6751,29.5460
+"25042 IH-10 West","San Antonio",TX,"78257",-98.6338,29.6744
+"1619 I-35 North","San Marcos",TX,"78666",-97.9099,29.8967
+"17650 Four Oaks Ln","Schertz",TX,"78154",-98.2779,29.6052
+"3636 NASA Rd 1","Seabrook",TX,"77586",-95.0457,29.5645
+"1501 Hwy 46 North","Seguin",TX,"78155",-97.9926,29.5813
+"2912 Hwy 75 North","Sherman",TX,"75090",-96.6118,33.6683
+"7000 Padre Blvd","South Padre Island",TX,"78597",-97.1700,26.1379
+"12727 Southwest Fwy","Stafford",TX,"77477",-95.5844,29.6347
+"105 Christy Plaza","Stephenville",TX,"76401",-98.2419,32.2017
+"1344 Eaton Dr","Sulphur Springs",TX,"75482",-95.5907,33.1186
+"500 North West Georgia Ave","Sweetwater",TX,"79556",-100.4022,32.4501
+"1604 West Barton Ave","Temple",TX,"76504",-97.3567,31.1035
+"1614 Hwy 34 South","Terrell",TX,"75160",-96.2776,32.7033
+"5201 N State Line Ave","Texarkana",TX,"75503",-94.0450,33.4693
+"28673 I-45 North","The Woodlands",TX,"77381",-95.4528,30.1800
+"24868 I-45 North","The Woodlands",TX,"77386",-95.4404,30.1240
+"14000 Medical Complex Dr","Tomball",TX,"77375",-95.6334,30.0844
+"1601 West Southwest Loop 323","Tyler",TX,"75701",-95.3206,32.3038
+"2552 S SE Loop 323","Tyler",TX,"75701",-95.2658,32.3223
+"3107 S Laurent Street","Victoria",TX,"77901",-96.9790,28.7675
+"7603 N Navarro St","Victoria",TX,"77904",-96.9978,28.8662
+"1110 South 9th St","Waco",TX,"76706",-97.1256,31.5454
+"6003 Woodway Dr","Waco",TX,"76712",-97.1931,31.5105
+"311 Stadium Dr","Waxahachie",TX,"75165",-96.8363,32.4166
+"1915 Wall St","Weatherford",TX,"76086",-97.7901,32.7323
+"520 West Bay Area Blvd","Webster",TX,"77598",-95.1339,29.5452
+"1128 Central Fwy North","Wichita Falls",TX,"76306",-98.5187,33.9351
+"2511 E Montgomery Place","Wichita Falls",TX,"76308",-98.5332,33.8632
+"226 Spur 5","Winnie",TX,"77665",-94.3838,29.8300
+"1965 North 1200 West","Layton",UT,"84041",-111.9880,41.0883
+"853 S Hwy 89/91","Logan",UT,"84321",-111.8362,41.7165
+"7231 South Catalpa St","Midvale",UT,"84047",-111.9025,40.6199
+"815 South Main St","Moab",UT,"84532",-109.5473,38.5615
+"1100 West 780 North","Orem",UT,"84057",-111.7222,40.3113
+"521 West University Pkwy","Orem",UT,"84058",-111.7082,40.2727
+"1460 South University Ave","Provo",UT,"84601",-111.6599,40.2140
+"91 East 2680 South","Saint George",UT,"84790",-113.5828,37.0630
+"4905 West Wiley Post Way","Salt Lake City",UT,"84116",-112.0082,40.7734
+"3540 South 2200 West","Salt Lake City",UT,"84119",-111.9486,40.6956
+"792 Zion Park Blvd","Springdale",UT,"84767",-112.9973,37.1894
+"16280 International Street","Doswell",VA,"23047",-77.4464,37.8499
+"3320 Candlers Mountain Road","Lynchburg",VA,"24502",-79.1753,37.3683
+"1301 Huguenot Rd","Midlothian",VA,"23113",-77.6116,37.5093
+"1387 North Military Hwy","Norfolk",VA,"23502",-76.2110,36.8718
+"1450 Tyler Ave","Radford",VA,"24141",-80.5404,37.1268
+"9040 Pams Ave","Richmond",VA,"23237",-77.4276,37.4011
+"140 Sheraton Dr","Salem",VA,"24153",-80.0324,37.3213
+"2800 Pacific Ave","Virginia Beach",VA,"23451",-75.9787,36.8564
+"192 Newtown Rd","Virginia Beach",VA,"23462",-76.1846,36.8436
+"600 Bypass Road","Williamsburg",VA,"23185",-76.7098,37.2838
+"1800 East Main St","Wytheville",VA,"24382",-81.0610,36.9477
+"813 Fairfax Rd","Saint Albans",VT,"05478",-73.0730,44.7939
+"1285 Williston Rd","South Burlington",VT,"05403",-73.1732,44.4672
+"225 6th Street South East","Auburn",WA,"98002",-122.2271,47.3021
+"1063 W Bakerview Rd","Bellingham",WA,"98226",-122.5098,48.7893
+"12619 4th Ave West","Everett",WA,"98204",-122.2340,47.8833
+"2600 South Quillan Pl","Kennewick",WA,"99338",-119.1765,46.1860
+"10530 Northeast Northup Way","Kirkland",WA,"98033",-122.1998,47.6427
+"4704 Park Center Ave Northeast","Lacey",WA,"98516",-122.8212,47.0494
+"4300 Alderwood Mall Blvd","Lynnwood",WA,"98036",-122.2913,47.8172
+"2224 8th Ave","Seattle",WA,"98121",-122.3395,47.6176
+"2824 South 188th St","Seattle",WA,"98188",-122.2970,47.4351
+"9601 N Newport Hwy","Spokane",WA,"99218",-117.4066,47.7449
+"3808 North Sullivan Rd","Spokane Valley",WA,"99216",-117.1955,47.6913
+"1425 East 27th St","Tacoma",WA,"98421",-122.4124,47.2396
+"1500 Northeast 134th St","Vancouver",WA,"98685",-122.6566,45.7182
+"520 N 2nd Ave","Walla Walla",WA,"99362",-118.3427,46.0710
+"1905 North Wenatchee Ave","Wenatchee",WA,"98801",-120.3332,47.4516
+"3800 West College Ave","Appleton",WI,"54914",-88.4623,44.2623
+"3920 West College Ave","Appleton",WI,"54914",-88.4640,44.2627
+"20391 West Bluemound Rd","Brookfield",WI,"53045",-88.1656,43.0350
+"2801 Hillside Dr","Delafield",WI,"53018",-88.3720,43.0478
+"5110 North Port Washington Rd","Glendale",WI,"53217",-87.9162,43.1096
+"5423 North Port Washington Rd","Glendale",WI,"53217",-87.9171,43.1154
+"5217 East Terrace Dr","Madison",WI,"53718",-89.2914,43.1435
+"5442 North Lovers Ln Rd","Milwaukee",WI,"53225",-88.0556,43.1169
+"15300 West Rock Ridge Rd","New Berlin",WI,"53151",-88.1052,42.9520
+"7141 South 13th St","Oak Creek",WI,"53154",-87.9317,42.9149
+"1886 Rath Lane","Oshkosh",WI,"54902",-88.5817,44.0328
+"7540 118th Ave","Pleasant Prairie",WI,"53158",-87.9497,42.5665
+"2932 Kohler Memorial Dr","Sheboygan",WI,"53081",-87.7458,43.7572
+"4917 Main St","Stevens Point",WI,"54481",-89.5321,44.5231
+"1910 Stewart Ave","Wausau",WI,"54401",-89.6595,44.9591
+"101 Crossing Shopping Mall","Elkview",WV,"25071",-81.5005,38.4569
+"106 Merchants Walk Shopping CE","Summersville",WV,"26651",-80.8340,38.2983
+"400 West F St","Casper",WY,"82601",-106.3308,42.8575
+"2410 West Lincolnway","Cheyenne",WY,"82009",-104.8476,41.1202
+"2717 Dewar Dr","Rock Springs",WY,"82901",-109.2599,41.5792
